@@ -15,14 +15,31 @@
   - Download and Open Arduino IDE
       - https://www.arduino.cc/en/software
   - In the IDE go to `Sketch`, `Include Library`, then `Add .ZIP Library`
+    
     ![image](https://github.com/aaron-is-the-best2114/OLED_Ultrasonic/assets/85415917/58b75dd4-d885-4ba3-bf01-24512ca6d7c9)
   
   - Locate the Folder you downloaded and extracted this repository to, and load all the libraries in the `libraries` folder
+    
     ![image](https://github.com/aaron-is-the-best2114/OLED_Ultrasonic/assets/85415917/eefc6a32-0c36-413d-bb99-8b5e737e3074)
 
   - Load all 4 Libraries in the IDE
+    
     ![image](https://github.com/aaron-is-the-best2114/OLED_Ultrasonic/assets/85415917/d2a4e4dd-7936-4626-899e-a3ff31f234e0)
 
   - Then Location the Code in the `OLED_Ultrasonic` Folder, and double click to open it or go to `File`, `Open` in the IDE
+    
     ![image](https://github.com/aaron-is-the-best2114/OLED_Ultrasonic/assets/85415917/050989d1-b24d-4236-b555-ce19887e5241)
 
+**4: Run the code**
+  - Plug in Your Arduino Nano into your PC
+  - Go to `Select Board` and Select the Port
+    
+    ![image](https://github.com/aaron-is-the-best2114/OLED_Ultrasonic/assets/85415917/63eccaa8-2a02-46ab-bf2f-fa951b37a56a)
+  
+  - Then Select Arduino Nano and Choose the correct port, Then Press `Ok`
+
+    ![image](https://github.com/aaron-is-the-best2114/OLED_Ultrasonic/assets/85415917/9dd0cb58-82a5-4228-9bea-8ebec3da2a04)
+
+  - Then You'll need to Click the `Upload` Button and it should all work
+
+    ![image](https://github.com/aaron-is-the-best2114/OLED_Ultrasonic/assets/85415917/d566f90e-3724-4472-8067-21392ca5e921)
